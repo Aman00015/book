@@ -1,3 +1,30 @@
+
 Chapter 1: The Mysterious Letter
 
 On a quiet morning, Alex found an envelope slipped under the door. The handwriting was unfamiliar, and there was no return address. Curiosity piqued, Alex opened the letter and read the cryptic message: "Meet me at the old oak tree at sunset. Come alone." With a mix of excitement and apprehension, Alex decided to find out who sent the letter.
+// git log
+// git status
+
+C:\Users\mansu\OneDrive\Code\web dev\Github learning\Book>git diff chapter3.txt 
+diff --git a/chapter3.txt b/chapter3.txt
+index bfa254a..b843cc3 100644
+--- a/chapter3.txt
++++ b/chapter3.txt
+@@ -1,4 +1 @@
+-
+-Chapter 3: The Hidden Truth
+-
+-Back home, Alex examined the box, searching for a way to open it. After hours of trying, a hidden latch clicked, revealing a faded photograph and a key. The photograph showed Alex as a child, standing with someone who looked just like the stranger. On the back, a message read: "Family is found in the most unexpected places." Alex realized the journey to uncover the truth had only just begun.
+\ No newline at end of file
++sdsdfsad
+\ No newline at end of file
+(END)
+diff --git a/chapter3.txt b/chapter3.txt
+index bfa254a..b843cc3 100644
+--- a/chapter3.txt
++++ b/chapter3.txt
+@@ -1,4 +1 @@
+
+
+C:\Users\mansu\OneDrive\Code\web dev\Github learning\Book>git checkout chapter3.txt
+Updated 1 path from the index
